@@ -11426,6 +11426,12 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-05-24 23:33:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_basin": {
     "criteria": {
       "has_red_dye": "2025-05-24 22:35:16 +0000"
