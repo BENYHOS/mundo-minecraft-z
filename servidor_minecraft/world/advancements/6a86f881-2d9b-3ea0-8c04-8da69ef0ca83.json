@@ -83,6 +83,7 @@
       "minecraft:beach": "2025-05-21 03:11:24 +0000",
       "minecraft:dark_forest": "2025-05-21 18:28:52 +0000",
       "minecraft:river": "2025-05-21 03:34:48 +0000",
+      "minecraft:swamp": "2025-05-24 22:53:52 +0000",
       "minecraft:forest": "2025-05-21 22:28:47 +0000",
       "minecraft:ocean": "2025-05-21 03:11:55 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-21 18:33:58 +0000",
@@ -1201,8 +1202,10 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "erupting_inferno": "2025-05-22 02:06:12 +0000",
+      "marsh": "2025-05-24 22:53:49 +0000",
       "clover_patch": "2025-05-21 03:41:42 +0000",
       "crystalline_chasm": "2025-05-22 01:19:38 +0000",
+      "orchard": "2025-05-24 22:53:24 +0000",
       "redwood_forest": "2025-05-21 22:29:13 +0000",
       "grassland": "2025-05-21 18:33:49 +0000"
     },
