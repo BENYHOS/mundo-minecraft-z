@@ -5604,7 +5604,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-05-24 03:15:03 +0000"
+      "sugar_cane": "2025-05-24 03:15:03 +0000",
+      "wheat": "2025-05-24 23:11:53 +0000"
     },
     "done": false
   },
@@ -6616,9 +6617,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 23:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-05-24 23:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 23:13:02 +0000"
     },
     "done": true
   },
@@ -6676,9 +6689,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 23:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 23:13:02 +0000"
+    },
+    "done": true
+  },
   "thingamajigs:recipes/building_blocks/tri_candle_holder": {
     "criteria": {
       "get_gold_inventory_again": "2025-05-24 23:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 23:13:02 +0000"
     },
     "done": true
   },
@@ -6724,9 +6755,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 23:13:02 +0000"
+    },
+    "done": true
+  },
   "createloveandwar:recipes/misc/grenade_he": {
     "criteria": {
       "has_gunpowder": "2025-05-24 22:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 23:13:02 +0000"
     },
     "done": true
   },
@@ -6904,9 +6947,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 23:13:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-05-24 22:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 23:13:02 +0000"
     },
     "done": true
   },
@@ -7012,6 +7067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 23:13:02 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/waxed_exposed_copper_large_button": {
     "criteria": {
       "has_thing": "2025-05-24 22:45:29 +0000"
@@ -7069,6 +7130,18 @@
   "infinitybuttons:recipe/redstone/sticky_oxidized_copper_large_button_pouring_honey": {
     "criteria": {
       "has_thing": "2025-05-24 22:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-24 23:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-05-24 23:13:02 +0000"
     },
     "done": true
   },

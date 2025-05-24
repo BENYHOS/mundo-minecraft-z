@@ -11360,6 +11360,12 @@
     },
     "done": true
   },
+  "create:diving_suit": {
+    "criteria": {
+      "0": "2025-05-24 23:16:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
     "criteria": {
       "has_red_dye": "2025-05-24 22:35:16 +0000"
