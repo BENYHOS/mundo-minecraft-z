@@ -285,3 +285,6 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [25May2025 02:39:33.003] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [25May2025 02:40:21.253] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [25May2025 02:40:49.604] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25May2025 02:54:16.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benghijairo_GT lost connection: Disconnected
+[25May2025 02:54:16.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
+[25May2025 02:54:16.561] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
