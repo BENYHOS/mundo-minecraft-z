@@ -87,6 +87,7 @@
     "criteria": {
       "minecraft:birch_forest": "2025-05-24 03:05:53 +0000",
       "minecraft:beach": "2025-05-23 03:40:23 +0000",
+      "minecraft:river": "2025-05-25 21:03:57 +0000",
       "minecraft:swamp": "2025-05-24 02:10:34 +0000",
       "minecraft:forest": "2025-05-23 04:02:59 +0000",
       "minecraft:ocean": "2025-05-23 03:41:13 +0000",
@@ -7949,6 +7950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-25 21:17:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-25 20:46:55 +0000"
@@ -8072,6 +8079,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-25 20:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-25 21:17:07 +0000"
     },
     "done": true
   },
