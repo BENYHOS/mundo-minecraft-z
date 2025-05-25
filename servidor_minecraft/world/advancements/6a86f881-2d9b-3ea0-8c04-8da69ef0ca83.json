@@ -11306,6 +11306,24 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2025-05-24 22:35:16 +0000"
@@ -11330,9 +11348,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_table_classic": {
+    "criteria": {
+      "deepslate_table_classic": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_chair_dinner": {
+    "criteria": {
+      "deepslate_chair_dinner": "2025-05-25 00:52:00 +0000"
     },
     "done": true
   },
@@ -11366,15 +11396,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2025-05-24 22:35:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/dripstone_castel_tiles_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_chair": {
+    "criteria": {
+      "deepslate_chair": "2025-05-25 00:52:00 +0000"
     },
     "done": true
   },
@@ -11390,9 +11438,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_table_basic": {
+    "criteria": {
+      "deepslate_table_basic": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 00:52:00 +0000"
     },
     "done": true
   },
@@ -11414,6 +11474,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-05-24 23:51:11 +0000"
@@ -11423,6 +11495,12 @@
   "create:diving_suit": {
     "criteria": {
       "0": "2025-05-24 23:16:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_classic_nightstand": {
+    "criteria": {
+      "deepslate_classic_nightstand": "2025-05-25 00:52:00 +0000"
     },
     "done": true
   },
@@ -11450,6 +11528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-24 22:35:16 +0000"
@@ -11468,15 +11552,51 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_table_natural": {
+    "criteria": {
+      "deepslate_table_natural": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/honeycomb": {
     "criteria": {
       "has_the_recipe": "2025-05-24 23:06:07 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-05-24 23:06:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_table_dinner": {
+    "criteria": {
+      "deepslate_table_dinner": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:52:00 +0000"
     },
     "done": true
   },
@@ -11534,6 +11654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-05-25 00:51:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
@@ -11546,6 +11672,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/red_emergency_button": {
     "criteria": {
       "has_thing": "2025-05-24 22:35:16 +0000"
@@ -11555,6 +11693,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_toilet": {
     "criteria": {
       "has_red_dye": "2025-05-24 22:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 00:52:00 +0000"
     },
     "done": true
   },
@@ -11588,9 +11732,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-25 00:56:29 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/dripstone_castel_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_table_modern_dinner": {
+    "criteria": {
+      "deepslate_table_modern_dinner": "2025-05-25 00:52:00 +0000"
     },
     "done": true
   },
@@ -11654,9 +11810,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-25 00:56:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-24 22:35:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:52:00 +0000"
     },
     "done": true
   },
@@ -11666,9 +11834,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/dripstone_castel_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:52:00 +0000"
     },
     "done": true
   },
@@ -11684,9 +11864,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-24 22:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 00:52:00 +0000"
     },
     "done": true
   },
@@ -11726,9 +11924,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_chair_modern": {
+    "criteria": {
+      "deepslate_chair_modern": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-24 22:35:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_chair_classic": {
+    "criteria": {
+      "deepslate_chair_classic": "2025-05-25 00:52:00 +0000"
     },
     "done": true
   },

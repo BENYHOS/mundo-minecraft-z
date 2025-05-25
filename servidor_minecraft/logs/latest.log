@@ -87,3 +87,36 @@
 [25May2025 00:47:51.278] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/vicmatskiv/pointblank/client/BiDirectionalInterpolator$Position
 [25May2025 00:47:51.280] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/vicmatskiv/pointblank/util/VelocityProviders$Distribution
 [25May2025 00:48:31.506] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:48:44.354] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[25May2025 00:49:15.504] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:49:20.805] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[25May2025 00:49:23.405] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:50:42.003] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:50:56.504] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:51:20.704] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25May2025 00:51:31.003] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:53:40.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1741, y=68, z=153} BlockPos{x=1740, y=66, z=153}
+[25May2025 00:53:40.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1741, y=68, z=153} BlockPos{x=1740, y=66, z=153}
+[25May2025 00:53:52.603] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25May2025 00:53:52.619] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ab79534[id=<null>,name=litzen34,properties={},legacy=false] (/127.27.36.101:44651) lost connection: Connection closed - mismatched mod channel list
+[25May2025 00:54:02.524] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25May2025 00:54:02.570] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54ecc70d[id=<null>,name=litzen34,properties={},legacy=false] (/127.27.36.101:50729) lost connection: Connection closed - mismatched mod channel list
+[25May2025 00:54:08.796] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25May2025 00:54:08.813] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b005097[id=<null>,name=litzen34,properties={},legacy=false] (/127.27.36.101:33489) lost connection: Connection closed - mismatched mod channel list
+[25May2025 00:54:18.041] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25May2025 00:54:18.063] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e4810be[id=<null>,name=litzen34,properties={},legacy=false] (/127.27.36.101:51731) lost connection: Connection closed - mismatched mod channel list
+[25May2025 00:54:50.972] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25May2025 00:54:51.012] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3fa0ccf8[id=<null>,name=litzen34,properties={},legacy=false] (/127.27.36.101:50737) lost connection: Connection closed - mismatched mod channel list
+[25May2025 00:55:48.842] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25May2025 00:55:48.864] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@222e7b51[id=<null>,name=litzen34,properties={},legacy=false] (/127.27.36.101:46827) lost connection: Connection closed - mismatched mod channel list
+[25May2025 00:56:06.953] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25May2025 00:56:06.965] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d7873dc[id=<null>,name=litzen34,properties={},legacy=false] (/127.27.36.101:33409) lost connection: Connection closed - mismatched mod channel list
+[25May2025 00:56:13.669] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25May2025 00:56:13.714] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1acdfe23[id=<null>,name=litzen34,properties={},legacy=false] (/127.27.36.101:60875) lost connection: Connection closed - mismatched mod channel list
+[25May2025 00:56:37.634] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25May2025 00:56:37.664] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ce3babf[id=<null>,name=litzen34,properties={},legacy=false] (/127.27.36.101:34105) lost connection: Connection closed - mismatched mod channel list
+[25May2025 00:57:10.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported benghijairo_GT to Asias_SX]
+[25May2025 00:57:10.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[25May2025 00:57:14.460] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25May2025 00:57:14.508] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41d9b201[id=<null>,name=litzen34,properties={},legacy=false] (/127.27.36.101:60711) lost connection: Connection closed - mismatched mod channel list
+[25May2025 00:57:56.804] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
