@@ -228,3 +228,26 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [25May2025 01:43:23.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asias_SX lost connection: Disconnected
 [25May2025 01:43:23.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asias_SX left the game
 [25May2025 01:43:23.258] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asias_SX
+[25May2025 01:52:23.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benghijairo_GT[/127.119.26.239:57105] logged in with entity id 114224 at (1697.2436989553685, 13.0, 445.452319625491)
+[25May2025 01:52:23.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT joined the game
+[25May2025 01:52:23.064] [Server thread/INFO] [Jade/]: Syncing config to benghijairo_GT (6a86f881-2d9b-3ea0-8c04-8da69ef0ca83)
+[25May2025 01:52:23.069] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[25May2025 01:52:23.255] [Server thread/INFO] [ping-wheel/]: Channel update: benghijairo_GT -> default
+[25May2025 01:52:23.257] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of benghijairo_GT (18)
+[25May2025 01:52:23.257] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benghijairo_GT
+[25May2025 01:52:38.485] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25May2025 01:52:38.513] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@26de5d67[id=<null>,name=litzen34,properties={},legacy=false] (/127.27.36.101:39739) lost connection: Connection closed - mismatched mod channel list
+[25May2025 01:52:49.547] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25May2025 01:52:49.560] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45c0833f[id=<null>,name=litzen34,properties={},legacy=false] (/127.27.36.101:35881) lost connection: Connection closed - mismatched mod channel list
+[25May2025 01:52:57.014] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25May2025 01:52:57.060] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c3bd19f[id=<null>,name=litzen34,properties={},legacy=false] (/127.27.36.101:55449) lost connection: Connection closed - mismatched mod channel list
+[25May2025 01:55:41.960] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benghijairo_GT lost connection: Disconnected
+[25May2025 01:55:41.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT left the game
+[25May2025 01:55:41.960] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client benghijairo_GT
+[25May2025 01:59:12.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benghijairo_GT[/127.119.26.239:43613] logged in with entity id 115489 at (1708.250836894194, 13.0, 432.59573096844093)
+[25May2025 01:59:12.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT joined the game
+[25May2025 01:59:12.863] [Server thread/INFO] [Jade/]: Syncing config to benghijairo_GT (6a86f881-2d9b-3ea0-8c04-8da69ef0ca83)
+[25May2025 01:59:12.868] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[6a86f881-2d9b-3ea0-8c04-8da69ef0ca83] updated from 'Player:'benghijairo_GT'['overworld']' to 'Player:'benghijairo_GT'['overworld']'
+[25May2025 01:59:13.531] [Server thread/INFO] [ping-wheel/]: Channel update: benghijairo_GT -> default
+[25May2025 01:59:13.559] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of benghijairo_GT (18)
+[25May2025 01:59:13.559] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to benghijairo_GT
