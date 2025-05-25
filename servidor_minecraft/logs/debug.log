@@ -23628,3 +23628,28 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [25May2025 00:26:56.968] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [25May2025 00:26:57.503] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [25May2025 00:27:26.305] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[25May2025 00:29:19.754] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:30:26.279] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:1L,aim:0b,ammo:0,ammox:{},as:[{id:"pointblank:operatorreflex",rmv:1b}],fmid:[I;818621213,-315870502,-2145899384,-2076789963],lid:-6982502176027356312L,mid:-1058283533266959213L,sa:{scope:"//operatorreflex"},seed:2000358907098318505L}
+[25May2025 00:30:41.703] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:31:07.977] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1756191948 to 32
+[25May2025 00:31:50.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 00:31:50.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 00:31:50.954] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[25May2025 00:33:13.704] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 00:34:33.835] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 13
+[25May2025 00:34:33.836] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@6c69e255, b=36, e=44}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@6c69e255, b=9, e=35}, net.minecraft.world.inventory.TransientCraftingContainer@740d517a=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@740d517a, c=net.minecraft.world.inventory.InventoryMenu@6c69e255, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@6c69e255, b=45, e=45}, net.minecraft.world.inventory.ResultContainer@46f86343=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@46f86343, c=net.minecraft.world.inventory.InventoryMenu@6c69e255, b=0, e=0}}
+[25May2025 00:34:33.836] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@6c69e255, b=9, e=35}
+[25May2025 00:34:40.404] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25May2025 00:34:52.925] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 00:34:53.708] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 00:35:01.856] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 00:35:13.454] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:35:16.354] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:36:35.454] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25May2025 00:36:46.654] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:36:46.654] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:36:50.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 00:36:50.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 00:37:09.205] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[25May2025 00:37:23.404] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25May2025 00:38:16.254] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
