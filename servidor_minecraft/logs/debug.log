@@ -23523,3 +23523,67 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [25May2025 00:06:50.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25May2025 00:07:05.703] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [25May2025 00:07:33.104] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:08:02.885] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/vicmatskiv/pointblank/util/StateMachine$TransitionMode
+[25May2025 00:08:05.411] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 00:08:05.514] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 00:08:29.604] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:09:04.154] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[25May2025 00:09:04.855] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:09:04.905] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:09:08.553] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:09:18.705] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:09:49.705] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[25May2025 00:09:55.805] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:10:06.904] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:10:08.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported benghijairo_GT to natusaurius]
+[25May2025 00:10:11.504] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:10:13.304] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:10:40.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benghijairo_GT has made the advancement [What a Deal!]
+[25May2025 00:10:59.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported benghijairo_GT to Asias_SX]
+[25May2025 00:11:10.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported natusaurius to benghijairo_GT]
+[25May2025 00:11:39.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: natusaurius lost connection: Disconnected
+[25May2025 00:11:39.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius left the game
+[25May2025 00:11:39.608] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of natusaurius
+[25May2025 00:11:39.609] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client natusaurius
+[25May2025 00:11:50.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 00:11:50.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 00:12:10.203] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25May2025 00:12:10.203] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:12:45.003] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[25May2025 00:13:54.237] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 20
+[25May2025 00:13:54.238] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3ac0c40a, b=54, e=62}, net.minecraft.world.level.block.entity.ChestBlockEntity@66862672=InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@66862672, c=net.minecraft.world.inventory.ChestMenu@3ac0c40a, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3ac0c40a, b=27, e=53}}
+[25May2025 00:13:54.238] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@66862672, c=net.minecraft.world.inventory.ChestMenu@3ac0c40a, b=0, e=26}
+[25May2025 00:14:29.267] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 40
+[25May2025 00:14:29.267] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=42, e=51}, []=InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=0, e=41}}
+[25May2025 00:14:29.267] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=0, e=41}
+[25May2025 00:14:29.311] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 40
+[25May2025 00:14:29.311] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=42, e=51}, []=InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=0, e=41}}
+[25May2025 00:14:29.311] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=0, e=41}
+[25May2025 00:14:29.338] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 40
+[25May2025 00:14:29.339] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=42, e=51}, []=InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=0, e=41}}
+[25May2025 00:14:29.339] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=0, e=41}
+[25May2025 00:14:29.398] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 40
+[25May2025 00:14:29.398] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=42, e=51}, []=InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=0, e=41}}
+[25May2025 00:14:29.398] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=0, e=41}
+[25May2025 00:14:29.477] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 40
+[25May2025 00:14:29.478] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=42, e=51}, []=InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=0, e=41}}
+[25May2025 00:14:29.478] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=0, e=41}
+[25May2025 00:14:43.953] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:15:28.237] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 33
+[25May2025 00:15:28.237] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=42, e=51}, []=InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=0, e=41}}
+[25May2025 00:15:28.238] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=0, e=41}
+[25May2025 00:15:28.323] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 33
+[25May2025 00:15:28.323] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=42, e=51}, []=InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=0, e=41}}
+[25May2025 00:15:28.323] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=0, e=41}
+[25May2025 00:16:04.954] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25May2025 00:16:28.503] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:16:28.503] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:16:34.353] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 00:16:37.487] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 40
+[25May2025 00:16:37.487] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=42, e=51}, []=InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=0, e=41}}
+[25May2025 00:16:37.487] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=0, e=41}
+[25May2025 00:16:37.790] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 40
+[25May2025 00:16:37.790] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=42, e=51}, []=InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=0, e=41}}
+[25May2025 00:16:37.790] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=com.vicmatskiv.pointblank.inventory.CraftingContainerMenu@4142f689, b=0, e=41}
+[25May2025 00:16:50.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 00:16:50.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

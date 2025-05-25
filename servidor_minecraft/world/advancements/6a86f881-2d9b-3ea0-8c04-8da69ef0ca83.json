@@ -11318,15 +11318,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-05-24 23:06:07 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-05-24 22:32:20 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/dripstone_button": {
+    "criteria": {
+      "has_thing": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/dripstone_castel_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
     },
     "done": true
   },
@@ -11342,6 +11372,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/dripstone_castel_tiles_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_toilet": {
     "criteria": {
       "has_dye": "2025-05-24 22:35:16 +0000"
@@ -11351,6 +11387,24 @@
   "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
     "criteria": {
       "has_red_dye": "2025-05-24 22:35:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/dripstone_castel_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
     },
     "done": true
   },
@@ -11381,6 +11435,12 @@
   "thingamajigs:recipes/misc/red_pumpkin_seeds": {
     "criteria": {
       "has_red_dye": "2025-05-24 22:35:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
     },
     "done": true
   },
@@ -11432,6 +11492,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_the_recipe": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_diving_helmet": {
     "criteria": {
       "has_item": "2025-05-24 23:33:27 +0000"
@@ -11444,6 +11516,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/red_safe_emergency_button": {
     "criteria": {
       "has_thing": "2025-05-24 22:35:16 +0000"
@@ -11453,6 +11531,12 @@
   "refurbished_furniture:recipes/decorations/red_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-24 22:35:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
     },
     "done": true
   },
@@ -11474,9 +11558,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-24 22:35:16 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/dripstone_castel_tile_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
     },
     "done": true
   },
@@ -11486,9 +11588,21 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/dripstone_castel_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-05-24 23:06:07 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/dripstone_large_button": {
+    "criteria": {
+      "has_thing": "2025-05-25 00:11:36 +0000"
     },
     "done": true
   },
@@ -11498,9 +11612,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-24 22:35:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
     },
     "done": true
   },
@@ -11528,6 +11660,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/dripstone_castel_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/dripstone_button_stonecutter": {
+    "criteria": {
+      "has_dripstone_block": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_kitchen_cabinetry": {
     "criteria": {
       "has_red_dye": "2025-05-24 22:35:16 +0000"
@@ -11540,15 +11690,57 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/dripstone_castel_tile_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-24 22:35:16 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-25 00:10:40 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/dripstone_castel_tile_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-24 22:35:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-25 00:11:36 +0000"
     },
     "done": true
   },
