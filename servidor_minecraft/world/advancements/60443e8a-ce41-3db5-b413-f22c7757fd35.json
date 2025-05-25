@@ -9221,7 +9221,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-05-25 01:06:30 +0000"
+      "sugar_cane": "2025-05-25 01:06:30 +0000",
+      "wheat": "2025-05-25 01:07:36 +0000"
     },
     "done": false
   },
@@ -9246,6 +9247,12 @@
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-05-25 00:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-25 01:07:36 +0000"
     },
     "done": true
   },
