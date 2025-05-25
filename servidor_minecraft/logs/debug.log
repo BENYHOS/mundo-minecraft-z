@@ -22298,3 +22298,959 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25May2025 20:34:51.129] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [25May2025 20:35:03.118] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [25May2025 20:35:48.012] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:37:35.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 20:37:35.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 20:38:08.079] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 20:38:34.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[25May2025 20:38:41.879] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[25May2025 20:39:28.348] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$8b6f422a24b646d4933c4928a00b1ae7 (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[25May2025 20:39:28.439] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[25May2025 20:39:28.600] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[25May2025 20:39:28.803] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[25May2025 20:39:59.131] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[25May2025 20:39:59.131] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[25May2025 20:39:59.138] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[25May2025 20:39:59.138] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[25May2025 20:41:07.239] [Server thread/DEBUG] [pointblank/]: 67239 handling client fire request
+[25May2025 20:41:07.239] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2069929080 to 31
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.243] [Server thread/DEBUG] [pointblank/]: 67243 - obtained hit result in 0ms
+[25May2025 20:41:07.244] [Server thread/DEBUG] [pointblank/]: 67244 - obtained hit result in 0ms
+[25May2025 20:41:07.244] [Server thread/DEBUG] [pointblank/]: 67244 - obtained hit result in 0ms
+[25May2025 20:41:07.244] [Server thread/DEBUG] [pointblank/]: 67244 obtained hit results
+[25May2025 20:41:07.244] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@51dc7e7b
+[25May2025 20:41:07.245] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.246] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.246] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@26e6794a
+[25May2025 20:41:07.247] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.247] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.247] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3c503112
+[25May2025 20:41:07.247] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.248] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.248] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@29e923fb
+[25May2025 20:41:07.248] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.248] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.248] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6bc9844c
+[25May2025 20:41:07.248] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.248] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.248] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1ab08e4d
+[25May2025 20:41:07.249] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.249] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.249] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2755f4a8
+[25May2025 20:41:07.249] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.249] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.249] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@47c3fd42
+[25May2025 20:41:07.249] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.249] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.249] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@600ffa12
+[25May2025 20:41:07.249] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.250] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.250] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7e53d2b8
+[25May2025 20:41:07.250] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.250] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.250] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@762b896e
+[25May2025 20:41:07.250] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.250] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.250] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2e5a4304
+[25May2025 20:41:07.250] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.251] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.251] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@319af3b7
+[25May2025 20:41:07.251] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.251] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.251] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@513c212e
+[25May2025 20:41:07.251] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.251] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.252] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7b76b29e
+[25May2025 20:41:07.252] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.252] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.252] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7c89c97
+[25May2025 20:41:07.252] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.253] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.253] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6129c092
+[25May2025 20:41:07.253] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.253] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.253] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@51aca8c8
+[25May2025 20:41:07.253] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.253] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.253] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1f801221
+[25May2025 20:41:07.253] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.254] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.254] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5c6f1962
+[25May2025 20:41:07.272] [Server thread/DEBUG] [pointblank/]: Creating state f15038bb-c7fa-4493-9f19-2b440a7f5368
+[25May2025 20:41:07.273] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/vicmatskiv/pointblank/client/controller/PlayerRecoilController$State
+[25May2025 20:41:07.277] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/vicmatskiv/pointblank/client/BiDirectionalInterpolator$Position
+[25May2025 20:41:07.280] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/vicmatskiv/pointblank/util/VelocityProviders$Distribution
+[25May2025 20:41:07.284] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.285] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.285] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@417233d3
+[25May2025 20:41:07.285] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.285] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.285] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@577fbd49
+[25May2025 20:41:07.285] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.286] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.286] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@432f13ef
+[25May2025 20:41:07.286] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.286] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.286] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@468827d7
+[25May2025 20:41:07.286] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.286] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.287] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1634787e
+[25May2025 20:41:07.287] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.287] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.287] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3c8b0a04
+[25May2025 20:41:07.287] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.287] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.287] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@780c611
+[25May2025 20:41:07.287] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.287] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.288] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@b1efa9
+[25May2025 20:41:07.288] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.288] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.288] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@35738049
+[25May2025 20:41:07.288] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.288] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:07.288] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@514c67c9
+[25May2025 20:41:07.288] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=274.64, y=89.00, z=18.75]
+[25May2025 20:41:07.289] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=275.53, y=86.00, z=24.20]
+[25May2025 20:41:20.689] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[25May2025 20:41:20.690] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[25May2025 20:41:55.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius has made the advancement [Those Were the Days]
+[25May2025 20:42:35.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 20:42:35.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 20:42:43.838] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of benghijairo_GT: {disabled=false, disconnected=true, uuid=6a86f881-2d9b-3ea0-8c04-8da69ef0ca83, name=benghijairo_GT, group=null}
+[25May2025 20:43:05.685] [Server thread/DEBUG] [pointblank/]: 85685 handling client fire request
+[25May2025 20:43:05.685] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2069929080 to 30
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.686] [Server thread/DEBUG] [pointblank/]: 85686 - obtained hit result in 0ms
+[25May2025 20:43:05.687] [Server thread/DEBUG] [pointblank/]: 85687 obtained hit results
+[25May2025 20:43:05.687] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2b5c7f1
+[25May2025 20:43:05.687] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.687] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.687] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@206f9d1c
+[25May2025 20:43:05.687] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.687] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.687] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1e4033da
+[25May2025 20:43:05.687] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.687] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.687] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5d892d95
+[25May2025 20:43:05.687] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.688] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.688] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@71aff39a
+[25May2025 20:43:05.688] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.688] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.688] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2df407ce
+[25May2025 20:43:05.688] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.688] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.688] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@32b52f49
+[25May2025 20:43:05.688] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.688] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.689] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@26c4490f
+[25May2025 20:43:05.689] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.689] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.689] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@28f94d6e
+[25May2025 20:43:05.689] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.689] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.689] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@253ee5c8
+[25May2025 20:43:05.689] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.689] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.689] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3e6a5941
+[25May2025 20:43:05.689] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.689] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.690] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3a62e3b2
+[25May2025 20:43:05.690] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.690] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.690] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@58925bad
+[25May2025 20:43:05.690] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.690] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.690] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@ad0f5d2
+[25May2025 20:43:05.690] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.690] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.690] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@661c1598
+[25May2025 20:43:05.690] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.690] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.690] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4bce059a
+[25May2025 20:43:05.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.691] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1cb707d
+[25May2025 20:43:05.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.691] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@cb86bf3
+[25May2025 20:43:05.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.691] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@a0e0f29
+[25May2025 20:43:05.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.691] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.692] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@31d73927
+[25May2025 20:43:05.692] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.692] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.692] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6bc5eff8
+[25May2025 20:43:05.692] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.692] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.692] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@24edf680
+[25May2025 20:43:05.692] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.692] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.692] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5ee0d273
+[25May2025 20:43:05.692] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.692] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.693] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5676d689
+[25May2025 20:43:05.693] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.693] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.693] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@12884990
+[25May2025 20:43:05.693] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.693] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.693] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@591ae4b7
+[25May2025 20:43:05.693] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.693] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.693] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1b1c6ad
+[25May2025 20:43:05.693] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.693] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.693] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@61939a8c
+[25May2025 20:43:05.693] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.694] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.694] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@31078be7
+[25May2025 20:43:05.694] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.694] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:05.694] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3f36fe2c
+[25May2025 20:43:05.694] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:05.694] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 handling client fire request
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2069929080 to 29
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 - obtained hit result in 0ms
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 - obtained hit result in 0ms
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 - obtained hit result in 0ms
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 - obtained hit result in 0ms
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 - obtained hit result in 0ms
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 - obtained hit result in 0ms
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 - obtained hit result in 0ms
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 - obtained hit result in 0ms
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 - obtained hit result in 0ms
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 - obtained hit result in 0ms
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 - obtained hit result in 0ms
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 - obtained hit result in 0ms
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 - obtained hit result in 0ms
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 - obtained hit result in 0ms
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 - obtained hit result in 0ms
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 - obtained hit result in 0ms
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 - obtained hit result in 0ms
+[25May2025 20:43:06.487] [Server thread/DEBUG] [pointblank/]: 86487 - obtained hit result in 0ms
+[25May2025 20:43:06.488] [Server thread/DEBUG] [pointblank/]: 86488 - obtained hit result in 0ms
+[25May2025 20:43:06.488] [Server thread/DEBUG] [pointblank/]: 86488 - obtained hit result in 0ms
+[25May2025 20:43:06.488] [Server thread/DEBUG] [pointblank/]: 86488 - obtained hit result in 0ms
+[25May2025 20:43:06.488] [Server thread/DEBUG] [pointblank/]: 86488 - obtained hit result in 0ms
+[25May2025 20:43:06.488] [Server thread/DEBUG] [pointblank/]: 86488 - obtained hit result in 0ms
+[25May2025 20:43:06.488] [Server thread/DEBUG] [pointblank/]: 86488 - obtained hit result in 0ms
+[25May2025 20:43:06.488] [Server thread/DEBUG] [pointblank/]: 86488 - obtained hit result in 0ms
+[25May2025 20:43:06.488] [Server thread/DEBUG] [pointblank/]: 86488 - obtained hit result in 0ms
+[25May2025 20:43:06.488] [Server thread/DEBUG] [pointblank/]: 86488 - obtained hit result in 0ms
+[25May2025 20:43:06.488] [Server thread/DEBUG] [pointblank/]: 86488 - obtained hit result in 0ms
+[25May2025 20:43:06.488] [Server thread/DEBUG] [pointblank/]: 86488 - obtained hit result in 0ms
+[25May2025 20:43:06.488] [Server thread/DEBUG] [pointblank/]: 86488 - obtained hit result in 0ms
+[25May2025 20:43:06.488] [Server thread/DEBUG] [pointblank/]: 86488 obtained hit results
+[25May2025 20:43:06.488] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@303dc3c9
+[25May2025 20:43:06.489] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.489] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.489] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@40d29a4c
+[25May2025 20:43:06.489] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.489] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.490] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@481ddbe4
+[25May2025 20:43:06.490] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.490] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.490] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@16e06aa5
+[25May2025 20:43:06.490] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.490] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.491] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@60541279
+[25May2025 20:43:06.491] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.491] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.491] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3400e4c5
+[25May2025 20:43:06.491] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.491] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.491] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@12e4db5a
+[25May2025 20:43:06.492] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.492] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.492] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7442ee1
+[25May2025 20:43:06.492] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.492] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.492] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@474333aa
+[25May2025 20:43:06.493] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.493] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.493] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7456c14b
+[25May2025 20:43:06.493] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.493] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.493] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@405cea90
+[25May2025 20:43:06.494] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.494] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.494] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6649e75c
+[25May2025 20:43:06.494] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.494] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.494] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3849465c
+[25May2025 20:43:06.495] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.495] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.495] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7a578487
+[25May2025 20:43:06.495] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.495] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.495] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5d78e937
+[25May2025 20:43:06.496] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.496] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.496] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@74a296c3
+[25May2025 20:43:06.496] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.496] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.496] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6ab55ad
+[25May2025 20:43:06.498] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.498] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.498] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@401e8a43
+[25May2025 20:43:06.499] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.499] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.499] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5ab5e226
+[25May2025 20:43:06.499] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.499] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.499] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3a41633d
+[25May2025 20:43:06.499] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.500] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.500] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@669b5fe5
+[25May2025 20:43:06.500] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.500] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.500] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@52639de7
+[25May2025 20:43:06.500] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.500] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.501] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@27b2e15f
+[25May2025 20:43:06.501] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.501] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.501] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@16db361f
+[25May2025 20:43:06.501] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.501] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.501] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2a832756
+[25May2025 20:43:06.502] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.502] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.502] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@64410b44
+[25May2025 20:43:06.502] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.502] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.502] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5449a68a
+[25May2025 20:43:06.503] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.503] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.503] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1bed19d2
+[25May2025 20:43:06.503] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.503] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.503] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2867346e
+[25May2025 20:43:06.504] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.504] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:06.504] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4410010d
+[25May2025 20:43:06.504] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:06.504] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.786] [Server thread/DEBUG] [pointblank/]: 87786 handling client fire request
+[25May2025 20:43:07.786] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2069929080 to 28
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 - obtained hit result in 0ms
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: 87787 obtained hit results
+[25May2025 20:43:07.787] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3d567d14
+[25May2025 20:43:07.788] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.788] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.788] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@891f7bc
+[25May2025 20:43:07.788] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.788] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.789] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3367df06
+[25May2025 20:43:07.790] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.790] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.790] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1295211a
+[25May2025 20:43:07.790] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.790] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.790] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@15be18e3
+[25May2025 20:43:07.790] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.790] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.791] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@182c6abd
+[25May2025 20:43:07.791] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.791] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.791] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2eb52f96
+[25May2025 20:43:07.791] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.791] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.791] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@159356ab
+[25May2025 20:43:07.791] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.791] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.791] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@700f2dfa
+[25May2025 20:43:07.791] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.792] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.792] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@b0dc8c4
+[25May2025 20:43:07.792] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.792] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.792] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@cc38fac
+[25May2025 20:43:07.792] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.792] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.792] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@36ab691
+[25May2025 20:43:07.792] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.792] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.792] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@a832bfb
+[25May2025 20:43:07.793] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.793] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.793] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6f2d9987
+[25May2025 20:43:07.793] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.793] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.793] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7f03c521
+[25May2025 20:43:07.793] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.793] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.793] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@298b3a6e
+[25May2025 20:43:07.793] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.794] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.794] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3ac40057
+[25May2025 20:43:07.794] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.794] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.794] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@39264729
+[25May2025 20:43:07.794] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.794] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.794] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@58eda7e1
+[25May2025 20:43:07.794] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.794] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.794] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2845aed8
+[25May2025 20:43:07.795] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.795] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.795] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3299d53f
+[25May2025 20:43:07.795] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.795] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.795] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@398dc34a
+[25May2025 20:43:07.795] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.795] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.795] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@ceab935
+[25May2025 20:43:07.795] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.796] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.796] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@9dcf51e
+[25May2025 20:43:07.796] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.796] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.796] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7510f937
+[25May2025 20:43:07.796] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.796] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.796] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@22d0f34c
+[25May2025 20:43:07.796] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.796] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.796] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7b2ac532
+[25May2025 20:43:07.796] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.797] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.797] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1530ab4c
+[25May2025 20:43:07.797] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.797] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.797] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@671b219c
+[25May2025 20:43:07.797] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.797] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:07.797] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@42f4f4a0
+[25May2025 20:43:07.797] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=288.91, y=78.00, z=35.57]
+[25May2025 20:43:07.797] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=287.80, y=78.00, z=39.75]
+[25May2025 20:43:53.834] [Server thread/DEBUG] [pointblank/]: 33834 handling client fire request
+[25May2025 20:43:53.834] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2069929080 to 27
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.835] [Server thread/DEBUG] [pointblank/]: 33835 - obtained hit result in 0ms
+[25May2025 20:43:53.836] [Server thread/DEBUG] [pointblank/]: 33836 obtained hit results
+[25May2025 20:43:53.836] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1a4759a5
+[25May2025 20:43:53.836] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.836] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.836] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@426facc9
+[25May2025 20:43:53.836] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.836] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.836] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@50e5a011
+[25May2025 20:43:53.836] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.837] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.837] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@209a2979
+[25May2025 20:43:53.837] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.837] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.837] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@30c6be
+[25May2025 20:43:53.837] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.837] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.837] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3f063b95
+[25May2025 20:43:53.837] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.837] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.838] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@429ee14c
+[25May2025 20:43:53.838] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.838] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.838] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@333ec987
+[25May2025 20:43:53.838] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.838] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.838] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@353dec68
+[25May2025 20:43:53.838] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.838] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.838] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3b69b3c9
+[25May2025 20:43:53.839] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.839] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.839] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@ec8a169
+[25May2025 20:43:53.839] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.839] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.839] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4bff23c6
+[25May2025 20:43:53.839] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.839] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.839] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@11fbd87d
+[25May2025 20:43:53.839] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.840] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.840] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@677ad670
+[25May2025 20:43:53.840] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.840] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.840] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2cf2f01f
+[25May2025 20:43:53.840] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.840] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.840] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1ea10754
+[25May2025 20:43:53.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.841] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@51561ccd
+[25May2025 20:43:53.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.841] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@602e89c1
+[25May2025 20:43:53.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.841] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5be7efd3
+[25May2025 20:43:53.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.842] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.842] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4dead85c
+[25May2025 20:43:53.842] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.842] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.842] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2cbb0558
+[25May2025 20:43:53.842] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.842] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.842] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@384fe18f
+[25May2025 20:43:53.842] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.842] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.842] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5cb21822
+[25May2025 20:43:53.843] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.843] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.843] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@470113d0
+[25May2025 20:43:53.843] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.843] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.843] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@33644fad
+[25May2025 20:43:53.843] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.843] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.843] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@74e083d7
+[25May2025 20:43:53.844] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.844] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.844] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@38dff661
+[25May2025 20:43:53.844] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.844] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.844] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@770ffd39
+[25May2025 20:43:53.844] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.844] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.844] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6687cd52
+[25May2025 20:43:53.845] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.845] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:53.845] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1609146e
+[25May2025 20:43:53.845] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.35, y=84.25, z=44.28]
+[25May2025 20:43:53.845] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.20, y=72.00, z=51.67]
+[25May2025 20:43:55.189] [Server thread/DEBUG] [pointblank/]: 35189 handling client fire request
+[25May2025 20:43:55.189] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2069929080 to 26
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.190] [Server thread/DEBUG] [pointblank/]: 35190 - obtained hit result in 0ms
+[25May2025 20:43:55.191] [Server thread/DEBUG] [pointblank/]: 35191 - obtained hit result in 1ms
+[25May2025 20:43:55.191] [Server thread/DEBUG] [pointblank/]: 35191 - obtained hit result in 0ms
+[25May2025 20:43:55.191] [Server thread/DEBUG] [pointblank/]: 35191 - obtained hit result in 0ms
+[25May2025 20:43:55.191] [Server thread/DEBUG] [pointblank/]: 35191 - obtained hit result in 0ms
+[25May2025 20:43:55.191] [Server thread/DEBUG] [pointblank/]: 35191 - obtained hit result in 0ms
+[25May2025 20:43:55.191] [Server thread/DEBUG] [pointblank/]: 35191 obtained hit results
+[25May2025 20:43:55.191] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@26009cc
+[25May2025 20:43:55.191] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.191] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.191] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2ff6a51b
+[25May2025 20:43:55.192] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.192] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.192] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3aac514f
+[25May2025 20:43:55.192] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.192] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.192] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@48f6da51
+[25May2025 20:43:55.193] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.193] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.193] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4a5a94ea
+[25May2025 20:43:55.193] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.193] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.193] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@509e2ec7
+[25May2025 20:43:55.193] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.193] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.193] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@8e03bb2
+[25May2025 20:43:55.193] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.194] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.194] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@763a5cad
+[25May2025 20:43:55.194] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.194] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.194] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@68d96b44
+[25May2025 20:43:55.194] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.194] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.194] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4910988e
+[25May2025 20:43:55.195] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.195] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.195] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@40a407b5
+[25May2025 20:43:55.195] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.195] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.195] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@64dff438
+[25May2025 20:43:55.195] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.195] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.195] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@47ff30ac
+[25May2025 20:43:55.196] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.196] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.196] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@ae61435
+[25May2025 20:43:55.196] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.196] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.196] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6a9f2373
+[25May2025 20:43:55.197] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.197] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.197] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@717a742c
+[25May2025 20:43:55.197] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.197] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.197] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4f3e50ff
+[25May2025 20:43:55.197] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.197] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.197] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7543a291
+[25May2025 20:43:55.197] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.197] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.197] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@66d493f1
+[25May2025 20:43:55.198] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.198] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.198] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@44ad5013
+[25May2025 20:43:55.198] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.198] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.198] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@79a959d1
+[25May2025 20:43:55.199] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.199] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.199] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@11962b5f
+[25May2025 20:43:55.199] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.199] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.199] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@531f7987
+[25May2025 20:43:55.199] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.199] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.199] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7d9c863f
+[25May2025 20:43:55.199] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.199] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.199] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4ec83f8c
+[25May2025 20:43:55.200] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.200] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.200] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6ea429d9
+[25May2025 20:43:55.200] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.200] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.200] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@465fa6cb
+[25May2025 20:43:55.200] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.201] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.201] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5f6b6d41
+[25May2025 20:43:55.201] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.201] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.201] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@50500d7f
+[25May2025 20:43:55.201] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.201] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:55.201] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1f750c4d
+[25May2025 20:43:55.201] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=289.30, y=84.00, z=45.66]
+[25May2025 20:43:55.202] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.387] [Server thread/DEBUG] [pointblank/]: 36387 handling client fire request
+[25May2025 20:43:56.387] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2069929080 to 25
+[25May2025 20:43:56.387] [Server thread/DEBUG] [pointblank/]: 36387 - obtained hit result in 0ms
+[25May2025 20:43:56.387] [Server thread/DEBUG] [pointblank/]: 36387 - obtained hit result in 0ms
+[25May2025 20:43:56.387] [Server thread/DEBUG] [pointblank/]: 36387 - obtained hit result in 0ms
+[25May2025 20:43:56.387] [Server thread/DEBUG] [pointblank/]: 36387 - obtained hit result in 0ms
+[25May2025 20:43:56.387] [Server thread/DEBUG] [pointblank/]: 36387 - obtained hit result in 0ms
+[25May2025 20:43:56.387] [Server thread/DEBUG] [pointblank/]: 36387 - obtained hit result in 0ms
+[25May2025 20:43:56.387] [Server thread/DEBUG] [pointblank/]: 36387 - obtained hit result in 0ms
+[25May2025 20:43:56.387] [Server thread/DEBUG] [pointblank/]: 36387 - obtained hit result in 0ms
+[25May2025 20:43:56.387] [Server thread/DEBUG] [pointblank/]: 36387 - obtained hit result in 0ms
+[25May2025 20:43:56.387] [Server thread/DEBUG] [pointblank/]: 36387 - obtained hit result in 0ms
+[25May2025 20:43:56.387] [Server thread/DEBUG] [pointblank/]: 36387 - obtained hit result in 0ms
+[25May2025 20:43:56.387] [Server thread/DEBUG] [pointblank/]: 36387 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36387 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36388 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36388 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36388 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36388 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36388 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36388 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36388 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36388 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36388 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36388 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36388 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36388 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36388 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36388 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36388 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36388 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36388 - obtained hit result in 0ms
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: 36388 obtained hit results
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@66cfc456
+[25May2025 20:43:56.388] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.389] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.389] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7b75f942
+[25May2025 20:43:56.389] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.389] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.389] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5ed43945
+[25May2025 20:43:56.389] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.389] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.389] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2e87bc1
+[25May2025 20:43:56.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.390] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1a9de2be
+[25May2025 20:43:56.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.390] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4ef6a746
+[25May2025 20:43:56.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.390] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3197a1cc
+[25May2025 20:43:56.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.390] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@70e0e24c
+[25May2025 20:43:56.391] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.391] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.391] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@51d76fc
+[25May2025 20:43:56.391] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.391] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.391] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7e2a2d8e
+[25May2025 20:43:56.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.392] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@723f6a46
+[25May2025 20:43:56.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.392] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5ba14cf
+[25May2025 20:43:56.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.392] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6bfe2812
+[25May2025 20:43:56.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.393] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@44172ebe
+[25May2025 20:43:56.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.393] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4df31120
+[25May2025 20:43:56.395] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.395] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.395] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@183a783d
+[25May2025 20:43:56.396] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.396] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.396] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@29e7d90
+[25May2025 20:43:56.397] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.398] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.398] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7f01c1a3
+[25May2025 20:43:56.398] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.398] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.399] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2a2eb572
+[25May2025 20:43:56.399] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.399] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.399] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@611ecb9a
+[25May2025 20:43:56.399] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.399] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.399] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@109d48d4
+[25May2025 20:43:56.399] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.399] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.399] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@61608fbd
+[25May2025 20:43:56.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.400] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3e3a23c6
+[25May2025 20:43:56.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.400] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@29ef6d80
+[25May2025 20:43:56.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.400] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@534e5b81
+[25May2025 20:43:56.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.400] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@36362b32
+[25May2025 20:43:56.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.401] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.401] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@597d1a21
+[25May2025 20:43:56.401] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.401] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.401] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@bacffe3
+[25May2025 20:43:56.401] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.401] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.401] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2a1f3f44
+[25May2025 20:43:56.401] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.401] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:56.401] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2df7ee8e
+[25May2025 20:43:56.401] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['natusaurius'/4081, l='ServerLevel[world]', x=290.35, y=84.50, z=40.94]
+[25May2025 20:43:56.401] [Server thread/DEBUG] [pointblank/]: ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02] sends hit scan notification to ServerPlayer['benghijairo_GT'/108, l='ServerLevel[world]', x=291.38, y=72.00, z=52.02]
+[25May2025 20:43:57.837] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2069929080 to 32
+[25May2025 20:44:14.424] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:45:26.451] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming m_91383_ with desc (Z)V
+[25May2025 20:45:26.456] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming m_91383_ with desc (Z)V
+[25May2025 20:45:26.484] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/client/Minecraft
+[25May2025 20:45:26.489] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[25May2025 20:45:26.490] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 1
+	Listeners:
+		0: NORMAL
+		1: ASM: class com.corrinedev.events.TaczEvents onShootEvent(Lcom/tacz/guns/api/event/common/GunShootEvent;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at TRANSFORMER/gundurability@1.0-SNAPSHOT/com.corrinedev.events.TaczEvents.onShootEvent(TaczEvents.java:87)
+	at TRANSFORMER/gundurability@1.0-SNAPSHOT/com.corrinedev.events.__TaczEvents_onShootEvent_GunShootEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/tacz@1.0.3/com.tacz.guns.entity.shooter.LivingEntityShoot.shoot(LivingEntityShoot.java:89)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.shoot(LivingEntity.java:11645)
+	at TRANSFORMER/tacz@1.0.3/com.tacz.guns.network.message.ClientMessagePlayerShoot.lambda$handle$0(ClientMessagePlayerShoot.java:29)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[25May2025 20:45:51.416] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:45:58.238] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:45:59.384] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:46:02.734] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:46:51.335] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:46:52.835] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:46:53.338] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:46:53.837] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:46:54.337] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:46:54.535] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:46:54.837] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:46:54.985] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:46:55.836] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:46:56.837] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:46:57.836] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:46:58.837] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:46:59.837] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:47:00.836] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:47:01.837] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:47:01.840] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/flansmod/common/actions/contexts/GunContext$EItemStackLinkage
+[25May2025 20:47:01.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natusaurius burned to death
+[25May2025 20:47:02.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [benghijairo_GT: Teleported natusaurius to benghijairo_GT]
+[25May2025 20:47:02.307] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[25May2025 20:47:02.307] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[25May2025 20:47:03.916] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[25May2025 20:47:03.917] [Server thread/INFO] [com.flansmod.common.FlansMod/]: Context[72f7c3b9-aac8-3ff4-a7ee-ecb698d17541] updated from 'Player:'natusaurius'['the_nether']' to 'Player:'natusaurius'['overworld']'
