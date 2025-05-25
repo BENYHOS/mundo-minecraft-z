@@ -4797,6 +4797,7 @@
       "minecraft:skeleton": "2025-05-24 03:03:30 +0000",
       "minecraft:creeper": "2025-05-24 03:07:30 +0000",
       "minecraft:zombified_piglin": "2025-05-24 02:07:12 +0000",
+      "minecraft:piglin": "2025-05-24 23:49:29 +0000",
       "minecraft:zombie": "2025-05-23 04:20:47 +0000",
       "minecraft:drowned": "2025-05-24 23:45:12 +0000"
     },
@@ -6591,9 +6592,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-25 00:05:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-24 22:45:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:58:17 +0000"
     },
     "done": true
   },
@@ -6639,9 +6652,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-25 00:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-05-24 23:58:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-05-24 22:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-05-24 23:58:17 +0000"
     },
     "done": true
   },
@@ -6687,6 +6730,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
+    "criteria": {
+      "has_pink_dye": "2025-05-24 23:58:17 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/sticky_exposed_copper_large_button": {
     "criteria": {
       "has_thing": "2025-05-24 22:45:29 +0000"
@@ -6699,6 +6748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-24 23:13:02 +0000"
@@ -6708,6 +6763,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-24 23:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-25 00:05:58 +0000"
     },
     "done": true
   },
@@ -6747,9 +6808,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/red_toilet": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_red_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/sticky_exposed_copper_button": {
     "criteria": {
       "has_thing": "2025-05-24 22:45:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_toilet": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:58:17 +0000"
     },
     "done": true
   },
@@ -6765,15 +6844,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:58:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-24 22:45:29 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/red_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-05-24 23:13:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_toilet": {
+    "criteria": {
+      "has_pink_dye": "2025-05-24 23:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-05-24 23:52:42 +0000"
     },
     "done": true
   },
@@ -6807,15 +6910,45 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
+    "criteria": {
+      "has_red_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-05-24 23:01:04 +0000"
     },
     "done": true
   },
+  "thingamajigs:recipes/misc/red_pumpkin_seeds": {
+    "criteria": {
+      "has_red_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/waxed_oxidized_copper_large_button_waxing": {
     "criteria": {
       "has_thing": "2025-05-24 22:45:29 +0000"
+    },
+    "done": true
+  },
+  "thingamajigs:recipes/misc/pink_pumpkin_seeds": {
+    "criteria": {
+      "has_pink_dye": "2025-05-24 23:58:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_bath": {
+    "criteria": {
+      "has_red_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
+    "criteria": {
+      "has_pink_dye": "2025-05-24 23:58:17 +0000"
     },
     "done": true
   },
@@ -6831,6 +6964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/waxed_exposed_copper_large_button_waxing": {
     "criteria": {
       "has_thing": "2025-05-24 22:45:29 +0000"
@@ -6843,9 +6982,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2025-05-24 23:58:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:58:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2025-05-24 22:45:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:58:17 +0000"
     },
     "done": true
   },
@@ -6855,9 +7012,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/weathered_copper_button": {
     "criteria": {
       "has_thing": "2025-05-24 22:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_basin": {
+    "criteria": {
+      "has_red_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/red_safe_emergency_button": {
+    "criteria": {
+      "has_thing": "2025-05-24 23:47:48 +0000"
     },
     "done": true
   },
@@ -6867,9 +7054,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/red_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-24 23:01:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_pink_dye": "2025-05-24 23:58:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
+    "criteria": {
+      "has_pink_dye": "2025-05-24 23:58:17 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/red_emergency_button": {
+    "criteria": {
+      "has_thing": "2025-05-24 23:47:48 +0000"
     },
     "done": true
   },
@@ -6888,6 +7099,18 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-05-24 23:01:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_toilet": {
+    "criteria": {
+      "has_red_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
+    "criteria": {
+      "has_pink_dye": "2025-05-24 23:58:17 +0000"
     },
     "done": true
   },
@@ -6918,6 +7141,30 @@
   "infinitybuttons:recipe/redstone/waxed_copper_large_button": {
     "criteria": {
       "has_thing": "2025-05-24 22:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-05-24 23:52:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-24 23:58:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:47:48 +0000"
     },
     "done": true
   },
@@ -6957,6 +7204,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/pink_emergency_button": {
+    "criteria": {
+      "has_thing": "2025-05-24 23:58:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-05-24 22:45:29 +0000"
@@ -6987,9 +7240,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-05-24 22:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:58:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:58:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:47:48 +0000"
     },
     "done": true
   },
@@ -7002,6 +7285,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-24 22:45:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:47:48 +0000"
     },
     "done": true
   },
@@ -7029,15 +7318,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-05-24 22:45:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/waxed_oxidized_copper_large_button": {
     "criteria": {
       "has_thing": "2025-05-24 22:45:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:58:17 +0000"
     },
     "done": true
   },
@@ -7065,6 +7372,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-25 00:05:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_cabinetry": {
+    "criteria": {
+      "has_red_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/waxed_weathered_copper_large_button_waxing": {
     "criteria": {
       "has_thing": "2025-05-24 22:45:29 +0000"
@@ -7077,9 +7396,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/red_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/waxed_oxidized_copper_button": {
     "criteria": {
       "has_thing": "2025-05-24 22:45:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_basin": {
+    "criteria": {
+      "has_pink_dye": "2025-05-24 23:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-24 23:58:17 +0000"
     },
     "done": true
   },
@@ -7113,9 +7450,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/red_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/waxed_exposed_copper_large_button": {
     "criteria": {
       "has_thing": "2025-05-24 22:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-24 23:58:17 +0000"
     },
     "done": true
   },
@@ -7143,6 +7492,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/red_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/sticky_oxidized_copper_large_button": {
     "criteria": {
       "has_thing": "2025-05-24 22:45:29 +0000"
@@ -7158,6 +7513,18 @@
   "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-24 22:45:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:58:17 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/pink_safe_emergency_button": {
+    "criteria": {
+      "has_thing": "2025-05-24 23:58:17 +0000"
     },
     "done": true
   },
@@ -7209,6 +7576,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/pink_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:58:17 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/oxidized_copper_button": {
     "criteria": {
       "has_thing": "2025-05-24 22:45:29 +0000"
@@ -7230,6 +7603,18 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-05-24 23:34:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_drawer": {
+    "criteria": {
+      "has_red_dye": "2025-05-24 23:47:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-24 23:58:17 +0000"
     },
     "done": true
   },

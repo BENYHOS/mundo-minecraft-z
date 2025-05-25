@@ -11360,6 +11360,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-05-24 23:51:11 +0000"
+    },
+    "done": true
+  },
   "create:diving_suit": {
     "criteria": {
       "0": "2025-05-24 23:16:46 +0000"
