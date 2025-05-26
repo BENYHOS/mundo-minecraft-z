@@ -1,8 +1,8 @@
 {
-  "singleplayer": {},
+  "singleplayer": {
+    "Mundo nuevo": true
+  },
   "multiplayer": {
-    "6a86f881-2d9b-3ea0-8c04-8da69ef0ca83": true,
-    "72f7c3b9-aac8-3ff4-a7ee-ecb698d17541": true,
-    "60443e8a-ce41-3db5-b413-f22c7757fd35": true
+    "64944ae8-d6c1-11ea-8536-b42e996a7d7a": true
   }
 }
